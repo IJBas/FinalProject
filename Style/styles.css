@@ -1,0 +1,37 @@
+h1 {
+  padding: 5rem;
+  text-align: center;
+}
+
+p {
+  color: black;
+  font-size: large;
+  font-family: "Fjalla One", sans-serif;
+}
+.container {
+  max-width: 1080px;
+}
+
+#icon {
+  padding-right: 10rem;
+  text-align: center;
+}
+
+.card-header {
+  font-style: color, ba;
+  background-color: #259b56;
+}
+.card-deck .card {
+  margin-bottom: 0.5rem;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 250px;
+  word-wrap: break-word;
+  background-clip: border-box;
+}
+
+.form-label {
+  font-family: "Roboto", sans-serif;
+  font-size: large;
+}
